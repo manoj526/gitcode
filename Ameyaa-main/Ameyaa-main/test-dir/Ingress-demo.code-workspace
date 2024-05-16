@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Ingress-demo"
+		},
+		{
+			"path": "../../../../argocd"
+		}
+	],
+	"settings": {}
+}

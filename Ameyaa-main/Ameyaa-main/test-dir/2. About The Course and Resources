@@ -1,0 +1,335 @@
+
+
+some of the important resources that you can refer
+
+while going through this course.
+
+Now, the first important part that we need to keep a note of
+
+is that this is a certification specific course,
+
+and, hence, we are going to cover
+
+all the pointers that are part
+
+of the official exam objectives of Terraform certification.
+
+Now, if you'll explore the official certification page
+
+associated with the Terraform certification,
+
+if we go a bit down,
+
+you'll see that HashiCorp has divided all of the topics
+
+into multiple set of primary objectives.
+
+So, you have understanding the IaC concepts,
+
+within here, there are sub-pointers, and so on.
+
+So, in total, there are nine primary section at this stage.
+
+Whenever HashiCorp modifies
+
+or adds new sections or new objectives,
+
+we update our course accordingly.
+
+But the main pointer that we need to keep a note of,
+
+everything that is mentioned as part of the exam objectives,
+
+you will find as part of this course.
+
+Now, related to the exam objectives,
+
+there is one pointer that you need to keep a note of,
+
+which is the arrangement of topic that we have in the course
+
+is a little different from the exam blueprint.
+
+And this is done to ensure
+
+that the course remains beginner friendly,
+
+and topics are covered in step by step manner.
+
+For example, it is not 100% necessary
+
+that first we will discuss about point 1a, then 1b,
+
+then 2a and 2b, and so on.
+
+If we go through this way,
+
+then it'll create a little amount of confusion
+
+if you are new to Terraform.
+
+So, we have rearranged the topics in this course in a manner
+
+that even if you are completely new to Terraform,
+
+you'll be able to understand it in a proper, systematic way.
+
+The next important area
+
+is associated with the course resources.
+
+One of the very important resource is our GitHub page.
+
+So, all of the Terraform code
+
+that we write throughout the course,
+
+everything is added as part of our GitHub repository.
+
+I'll be adding the link to our GitHub page after this video,
+
+so that you can also reference to it.
+
+So, if you look into our GitHub page here,
+
+we have arranged things in section.
+
+For example, the first section
+
+is Deploying Infrastructure with Terraform.
+
+So, in the course also there will be a section
+
+of Deploying Infrastructure with Terraform.
+
+So, within here, if I'll quickly open this up...
+
+Let's go a bit down.
+
+Within here, we have various lecture names.
+
+So, let's explore the lecture number one here,
+
+which is Launch First Virtual Machine through Terraform.
+
+If I'll open this up, you'll see that I have added
+
+all of the documentation that we must have referenced
+
+in the practical video.
+
+I have also added the code that we have used in this video,
+
+and also the commands that we had run
+
+as part of this specific video.
+
+So, anytime if you want to reference to any of the code,
+
+you can explore our GitHub repository,
+
+which is very important as part of your practical journey.
+
+The second important Course Resource is the PPT slides,
+
+again, this is requested a lot.
+
+So, all of the PPT slides that we use throughout the course,
+
+it is available to download as PDF,
+
+so it'll look something similar to what you see
+
+as part of the screenshot.
+
+We have close to around 450 to 500 PPT slides in total.
+
+So, this PDF is attached
+
+as part of the first section itself,
+
+and the lecture title is Central PPT Notes.
+
+So, if you'll explore this,
+
+you'll find a link to download all of our PPT slides here.
+
+Apart from that,
+
+we also have our own online Discord community,
+
+where you can connect with other students,
+
+and even if you want some kind of a technical support,
+
+we have our support team that is available.
+
+Again, note that this is optional.
+
+In case if you see it to be beneficial, you can join.
+
+We have thousands of students who have joined our community.
+
+If you want to connect to it,
+
+you can go through this link,
+
+which is kplabs.in/chat,
+
+which will take you to our Discord community.
+
+Now, before we conclude,
+
+there is one important part that we need to keep a note of.
+
+As we have already discussed,
+
+Terraform supports thousands of providers.
+
+It works with AWS, Azure, GCP,
+
+Kubernetes, Docker, et cetera, et cetera.
+
+So, this is the first part that we need to keep a note of.
+
+Now, the question that comes is,
+
+to learn the core Terraform concept,
+
+we have to choose one of the platform,
+
+or one of the provider, for our testing purpose.
+
+We can use AWS, we can use GitHub,
+
+we can use Kubernetes, etc.
+
+So, which one of them we will be using?
+
+And the answer is, for this course,
+
+we will be using AWS as the provider platform.
+
+Now, this can create some sort of confusion
+
+for users from Azure background,
+
+or users who are not aware of AWS,
+
+or it can happen that someone is aware of only GCP platform,
+
+they have not worked with AWS, etc.
+
+So, this creates a lot of confusion.
+
+So, let's go ahead and discuss more in detail,
+
+so that things are much more clear.
+
+So, first important pointer that you need to remember
+
+is that aim of this course
+
+is to learn the core Terraform concepts
+
+and not the AWS integration with Terraform.
+
+All right?
+
+And this is the reason why,
+
+although we will be using AWS,
+
+we'll only use very basic AWS services,
+
+like creating a virtual machine,
+
+or create simple AWS users
+
+to demonstrate and learn the core Terraform concepts.
+
+The third very important point
+
+that you need to keep a note of
+
+is that the Terraform structure and concept remains same
+
+irrespective of platform.
+
+For example,
+
+once you learn the core Terraform concepts,
+
+you'll be able to write the Terraform code for any platform.
+
+It can be AWS, Azure, GCP, Kubernetes, etc.
+
+as long as your core concepts are clear.
+
+And for this course,
+
+the aim here is to ensure that your core concepts
+
+are well understood practically.
+
+And the fourth pointer here is that,
+
+we have hundreds of students
+
+who have come from different backgrounds,
+
+like, some are from Azure, some are from GCP, et cetera,
+
+and they want to learn the Terraform.
+
+Since we are using very basic AWS services
+
+like creating a VM or AWS users
+
+to demonstrate the core Terraform concepts,
+
+it becomes simpler
+
+even if you are coming from other background,
+
+or even if you're new to AWS.
+
+Whenever you face issue regarding anything,
+
+you can raise a support ticket,
+
+you can ask in our Discord community,
+
+and our technical support team will be more than happy
+
+to help you here.
+
+Great, so that's the high-level overview
+
+on what this course is going to be all about,
+
+and also some of the important resources.
+
+Now, one thing that I can say is that,
+
+after you complete the course,
+
+you will be able to write a decent Terraform code
+
+for your environment in your organization.
+
+We have many students who are in college
+
+who have completed their course,
+
+and they are able to write good Terraform code.
+
+So, Terraform, overall, is not complicated.
+
+Once you understand the concepts
+
+that we have covered in the course,
+
+you should be good to go.
+
+So, with this base set, we'll conclude today'
