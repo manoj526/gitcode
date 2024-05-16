@@ -1,2 +1,0 @@
-# Ameyaa
-Ameyaa's painting
